@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\timerControl\timerControl\bin\Debug\timerControl.exe.config
+C:\Users\sebas\source\repos\timerControl\timerControl\bin\Debug\timerControl.exe
+C:\Users\sebas\source\repos\timerControl\timerControl\bin\Debug\timerControl.pdb
+C:\Users\sebas\source\repos\timerControl\timerControl\obj\Debug\timerControl.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\timerControl\timerControl\obj\Debug\timerControl.Form1.resources
+C:\Users\sebas\source\repos\timerControl\timerControl\obj\Debug\timerControl.Properties.Resources.resources
+C:\Users\sebas\source\repos\timerControl\timerControl\obj\Debug\timerControl.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\timerControl\timerControl\obj\Debug\timerControl.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\timerControl\timerControl\obj\Debug\timerControl.exe
+C:\Users\sebas\source\repos\timerControl\timerControl\obj\Debug\timerControl.pdb
